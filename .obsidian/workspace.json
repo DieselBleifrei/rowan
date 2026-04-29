@@ -11,10 +11,14 @@
             "id": "29bb191ac3954a6c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Welcome"
             }
           }
         ]
@@ -192,10 +196,10 @@
   },
   "active": "29bb191ac3954a6c",
   "lastOpenFiles": [
-    "another test 123 asdasdf asd asd asd.md",
     "Testing.md",
+    "create a link.md",
     "Welcome.md",
-    "Textdokument (neu).txt",
-    "create a link.md"
+    "another test 123 asdasdf asd asd asd.md",
+    "Textdokument (neu).txt"
   ]
 }
