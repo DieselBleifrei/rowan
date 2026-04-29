@@ -11,14 +11,10 @@
             "id": "29bb191ac3954a6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "another test 123 asdasdf asd asd.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "another test 123 asdasdf asd asd"
+              "title": "New tab"
             }
           }
         ]
@@ -194,10 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2971740d5b87f6b8",
+  "active": "29bb191ac3954a6c",
   "lastOpenFiles": [
+    "another test 123 asdasdf asd asd asd.md",
     "Testing.md",
-    "another test 123 asdasdf asd asd.md",
     "Welcome.md",
     "Textdokument (neu).txt",
     "create a link.md"
